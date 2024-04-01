@@ -10,3 +10,5 @@ test test
 new_branch에서 작성한 텍스트입니다.
 
 #pull : remote repository의 내용을 local repository로 동기화
+
+가나다라마바사아자차카타파하
